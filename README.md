@@ -1,2 +1,2 @@
 # tomahawk
-A rust project to learn about rust
+A project to learn about web scrapping in python with scrapy
